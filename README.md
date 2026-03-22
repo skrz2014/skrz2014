@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm a **Lead Data Architect & Snowflake Database Architect** with **14+ years of experience** designing and delivering enterprise-scale data platforms across Telecom, Retail, and BFSI domains. Currently at **LTM**, I specialize in Snowflake-native solutions — from large-scale cloud migrations and performance optimization to infrastructure-as-code, security governance, and AI-powered analytics.
+I'm a **Lead Snowflake Architect** with **14+ years of experience** designing and delivering enterprise-scale data platforms across Telecom, Retail, and BFSI domains. Currently at **LTM**, I specialize in Snowflake-native solutions — from large-scale cloud migrations and performance optimization to infrastructure-as-code, security governance, and AI-powered analytics.
 
 - 🏔️ **Snowflake 2x Certified** — SnowPro Core + SnowPro Advanced: Administrator
 - ❄️ **Snowflake Squad Member** — Recognized at SnowflakeSummit 2025

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Snowflake Squad Header Banner -->
-<img width="100%" src="https://raw.githubusercontent.com/skrz2014/skrz2014/main/snowflake_squad_banner.png" alt="Snowflake Squad Banner" />
+<img width="100%" src="https://raw.githubusercontent.com/skrz2014/skrz2014/refs/heads/main/snowflake_squad_banner.png" alt="Snowflake Squad Banner" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm a **Lead Data Architect & Snowflake Database Architect** with **14+ years of experience** designing and delivering enterprise-scale data platforms across Telecom, Retail, and BFSI domains. Currently at **LTIMindtree**, I specialize in Snowflake-native solutions — from large-scale cloud migrations and performance optimization to infrastructure-as-code, security governance, and AI-powered analytics.
+I'm a **Lead Data Architect & Snowflake Database Architect** with **14+ years of experience** designing and delivering enterprise-scale data platforms across Telecom, Retail, and BFSI domains. Currently at **LTM**, I specialize in Snowflake-native solutions — from large-scale cloud migrations and performance optimization to infrastructure-as-code, security governance, and AI-powered analytics.
 
 - 🏔️ **Snowflake 2x Certified** — SnowPro Core + SnowPro Advanced: Administrator
 - ❄️ **Snowflake Squad Member** — Recognized at SnowflakeSummit 2025
